@@ -1,5 +1,5 @@
 <center>
-  <img src="./icon.png">  
+  <img style="border-radius: 8px;" src="./icon.png">  
 </center>
 
 <center>
